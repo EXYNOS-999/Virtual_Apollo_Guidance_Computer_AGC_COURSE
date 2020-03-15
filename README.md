@@ -10,6 +10,12 @@ JULY 20 1969-->LAUNCH
 
 [Github Repository for the digitized code](https://github.com/chrislgarry/Apollo-11)
 
+[Simulations](http://orbit.medphys.ucl.ac.uk/)
+
+[Orbital Flight SImulator](https://github.com/dseagrav/NASSP/tree/master)
+
+[Main Resource Website](http://www.ibiblio.org/apollo/)
+
 
 Original Apollo 11 guidance computer (AGC) source code for Command Module (Comanche055) and Lunar Module (Luminary099).
 
